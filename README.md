@@ -1,4 +1,4 @@
-# Foretell
+# Foretell with Python
 # XiamZee by Pygame
 # XiamZee by Apisit Khomcharoen 6001012630187
 
