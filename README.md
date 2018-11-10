@@ -1,4 +1,4 @@
-# Foretell with Python
+# Foretell with Python  (Random Number)
 # XiamZee by Pygame
 # XiamZee by Apisit Khomcharoen 6001012630187
 
